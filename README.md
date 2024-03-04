@@ -26,6 +26,9 @@ docker run --name hapi-mysql -e MYSQL_ROOT_PASSWORD=hapi -e MYSQL_DATABASE=user 
 npm start
 ```
 
+## Template de la mise en place du projet
+Pour mettre en place ce projet, j'ai pris l'initiative de créer un [template](https://github.com/Auxyde/iut-project-template) pour potentiellement réutiliser cette stack dans le futur
+
 ## Plus d'Informations
 
 Pour une compréhension complète du projet, y compris des détails sur le cahier des charges et des informations supplémentaires sur les fonctionnalités, veuillez consulter le cahier des charges du projet disponible à [ce lien](https://drjs-organization.gitbook.io/nodejs/tp/projet).
